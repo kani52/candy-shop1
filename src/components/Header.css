@@ -1,0 +1,248 @@
+
+
+.loginlink {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.loginlink li {
+  display: flex;
+  align-items: center;
+}
+
+.loginlink a {
+  text-decoration: none;
+  color: #333;
+  margin: 0 20px;
+  font-size: 16px;
+}
+
+.loginlink a:hover {
+  color: #ff6600;
+}
+
+
+.loginlink a.home-link {
+  margin-left: 400px;
+}
+
+
+
+
+.image
+{
+    margin-top: 10%;
+    
+}
+img
+{
+    border: 5px solid black;
+}
+.icons
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.about-us-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.white-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+  text-align: left;
+}
+
+.white-box h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.white-box p {
+  font-size: 16px;
+  color: #555;
+}
+
+.footer{
+    background-color:rgb(144, 201, 251);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+.link {
+   
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+    padding-left: 20%;
+  }
+  .secondlink{
+    padding-left: 20%;
+  }
+  
+  .link a {
+    text-decoration: none;
+    color: #333; 
+    margin: 0 10px; 
+    font-size: 16px; 
+  }
+  
+  .link a:hover {
+    color: #ff6600; 
+
+  }
+  
+.welcome-heading {
+  text-align: center; 
+  font-size: 24px; 
+  margin-bottom: 10px; 
+}
+
+.home .header {
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+}
+
+.home .header h1 {
+  font-size: 36px;
+}
+
+.home .header p {
+  font-size: 18px;
+}
+
+
+.home .white-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+  text-align: left;
+}
+
+.home .white-box p {
+  font-size: 16px;
+  color: #555;
+}
+
+
+.home .about {
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.home .about h2 {
+  font-size: 24px;
+}
+
+.home .about p {
+  font-size: 18px;
+}
+
+
+.home .programs {
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.home .programs h2 {
+  font-size: 24px;
+}
+
+.home .programs p {
+  font-size: 18px;
+}
+
+.home .programs button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+ .description {
+  text-align: center;
+  padding: 20px;
+  background-color: #faf6f6;
+}
+
+.home .admissions {
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.home .admissions h2 {
+  font-size: 24px;
+}
+
+.home .admissions p {
+  font-size: 18px;
+}
+
+.home .admissions button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+
+.home .contact {
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.home .contact h2 {
+  font-size: 24px;
+}
+
+.home .contact p {
+  font-size: 18px;
+}
+
+.home .contact button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
